@@ -24,3 +24,11 @@ We will be building a muti-coin wallet for multiple addresses in Python using hd
 ### Bitcoin Test Net
 
 ![bitcoin_transaction](/btc_testnet_transaction_proof.PNG)
+
+### Ethereum Test Net
+
+![eth_transaction](/eth_transaction_proof.PNG)
+
+### Local PoA Ethereum Transaction
+
+![mycrypto_transaction](/mycrypto_transaction_proof.PNG)
