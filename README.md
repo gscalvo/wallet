@@ -4,7 +4,7 @@
 
 We will be building a muti-coin wallet for multiple addresses in Python using hd-derive-wallet
 
-## Libraries
+## Required Libraries
 
 * Web3
 * Bit
